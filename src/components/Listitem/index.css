@@ -1,0 +1,7 @@
+.listitem{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(108, 177, 154);
+    text-align: center;
+}
